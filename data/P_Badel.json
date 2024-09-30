@@ -1,0 +1,218 @@
+{
+    "1": {
+        "Lunes": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "SSV",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "MJE",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Jueves": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        }
+    },
+    "2": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "AT",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "MJE",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Jueves": {
+            "Grupo": "",
+            "Materia": "TT",
+            "Aula": ""
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        }
+    },
+    "3": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Martes": {
+            "Grupo": "",
+            "Materia": "TT",
+            "Aula": ""
+        },
+        "Miércoles": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "SSV",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "MJE",
+            "Aula": "P2ª-12 IN4"
+        }
+    },
+    "4": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Miércoles": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Jueves": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        }
+    },
+    "5": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "TT",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "",
+            "Materia": "TT",
+            "Aula": ""
+        },
+        "Miércoles": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "SSV",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "MJE",
+            "Aula": "P2ª-12 IN4"
+        }
+    },
+    "6": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "TT",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "MJE",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Miércoles": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Jueves": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "SSV",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        }
+    },
+    "7": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Martes": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "MJE",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Miércoles": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Jueves": {
+            "Grupo": "1º CFGM INF",
+            "Materia": "SSV",
+            "Aula": "P2ª-12 IN4"
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        }
+    },
+    "8": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "RD",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Miércoles": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Jueves": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        }
+    }
+}

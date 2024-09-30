@@ -1,0 +1,218 @@
+{
+    "1": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR - Badel del Cristo",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "EMR - Carolina",
+            "Aula": "Coworking"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DPL- Acerina Pérez",
+            "Aula": "P2ª-14 IN3"
+        }
+    },
+    "2": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR - Badel del Cristo",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DPL - Acerina Pérez",
+            "Aula": "P2ª-14 IN3"
+        }
+    },
+    "3": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR - Badel del Cristo",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR - Badel del Cristo",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        }
+    },
+    "4": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Miércoles": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Jueves": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "Recreo",
+            "Aula": ""
+        }
+    },
+    "5": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "EMR - Carolina",
+            "Aula": "Coworking"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR - Badel del Cristo",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DEW - Marta Dominguez",
+            "Aula": "P2ª-14 IN3"
+        }
+    },
+    "6": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "EMR - Carolina",
+            "Aula": "Coworking"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DPL - Acerina Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DPL - Acerina Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        }
+    },
+    "7": {
+        "Lunes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DOR - Badel del Cristo",
+            "Aula": "Coworking"
+        },
+        "Martes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DPL - Acerina Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Miércoles": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Jueves": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DPL - Acerina Pérez",
+            "Aula": "P2ª-14 IN3"
+        },
+        "Viernes": {
+            "Grupo": "2º CFGS INF",
+            "Materia": "DSW - David Pérez",
+            "Aula": "P2ª-14 IN3"
+        }
+    },
+    "8": {
+        "Lunes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Martes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Miércoles": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Jueves": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        },
+        "Viernes": {
+            "Grupo": "",
+            "Materia": "",
+            "Aula": ""
+        }
+    }
+}
