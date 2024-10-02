@@ -107,12 +107,13 @@
 
         <form method="post">
             <div class="form">
-                <label>Selecciona horario: </label>
+                <label for="horario">Selecciona horario: </label>
                 <select id="horario" name="horario" required>
                     <option value="" disabled selected>-- Selecciona un horario--</option>
                     <option value="P_David">David</option>
-                    <option value="2ºCFGS_INF">2º CFGS INF. Desarrollo de aplicaciones web</option>
                     <option value="P_Badel">Badel</option>
+                    <option value="P_Acerina">Acerina</option>
+                    <option value="2ºCFGS_INF">2º CFGS INF. Desarrollo de aplicaciones web</option>
                 </select>
                 <label for="dia">Selecciona dia: </label>
                 <select id="dia" name="dia">
