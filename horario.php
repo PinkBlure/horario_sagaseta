@@ -10,41 +10,6 @@
 </head>
 
 <body class="body">
-
-    <?php
-        $horas = ["8:00", "8:55", "9:50", "10:45", "11:15", "12:10", "13:05", "14:00", "14:55"];
-
-        date_default_timezone_set("Atlantic/Canary");
-        define("DIA", date("d-m-Y"));
-
-        $formatter = new IntlDateFormatter(
-            'es_ES',
-            IntlDateFormatter::FULL,
-            IntlDateFormatter::NONE,
-            'Atlantic/Canary',
-            IntlDateFormatter::GREGORIAN,
-            'EEEE');
-        $timestamp = strtotime(DIA);
-        $diaSemana = $formatter->format($timestamp);
-        $diaSemana = ucfirst($diaSemana);
-
-        define("HORA", date("H:i"));
-    ?>
-
-    <header class="header container py-3">
-    <div class="row align-items-center">
-        <div class="col-12 col-md-6">
-            <img class="header__image img-fluid" src="./img/logo-ies-1.svg" alt="logo sagaseta">
-        </div>
-        <div class="col-12 col-md-6 text-md-right text-center">
-            <?php
-                echo "<h1 class='header__text h4'>$diaSemana, " . DIA . " a las " . HORA . "</h1>";
-            ?>
-        </div>
-    </div>
-    </header>
-
-
     <main>
 
         <?php

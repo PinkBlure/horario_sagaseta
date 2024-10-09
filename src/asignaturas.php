@@ -32,18 +32,12 @@
   </header>
 
   <main class="flex-grow-1 p-4">
-    <h1 class="text-center mb-4 mt-2">Gestión de los Horarios</h1>
+    <h1 class="text-center mb-4 mt-2">Asignaturas del centro</h1>
 
-    <div class="mb-5">
-        <h2>Horarios</h2>
-        <a href="#" class="btn btn-primary">Ver horarios</a>
+    <div>
+        <a>Insertar una nueva asignatura</a>
     </div>
 
-    <div class="mb-5">
-        <h2>Visualización de Datos</h2>
-        <a href="asignaturas.php" class="btn btn-secondary me-2">Ver todas las asignaturas</a>
-        <a href="#" class="btn btn-secondary">Ver todos los profesores</a>
-    </div>
   </main>
 
   <footer class="bg-light text-center p-4">
